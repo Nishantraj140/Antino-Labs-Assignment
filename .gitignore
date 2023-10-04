@@ -1,0 +1,5 @@
+internal/mock
+vendor
+build
+*.txt
+.idea/

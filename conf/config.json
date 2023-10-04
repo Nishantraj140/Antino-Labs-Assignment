@@ -1,0 +1,8 @@
+{
+  "db_config": {
+    "url": "",
+    "username": "root",
+    "password": "root",
+    "database": "blog"
+  }
+}
